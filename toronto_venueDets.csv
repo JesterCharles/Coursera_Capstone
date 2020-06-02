@@ -1,130 +1,181 @@
-like_counts,rating,photo_count,reasons_count,tips_count
-221,8.8,179,1,30
-222,8.6,454,1,45
-29,8.4,27,0,6
-181,8.4,517,1,47
-36,8.3,45,1,13
-270,8.3,259,1,81
-243,9.0,158,1,85
-686,8.8,467,1,206
-318,8.4,833,1,42
-43,8.2,69,1,18
-72,8.1,53,1,24
-53,8.0,97,1,27
-210,8.0,128,1,62
-68,8.0,96,1,32
-137,8.0,73,1,30
-156,8.2,268,1,30
-149,8.2,82,1,48
-187,8.3,220,1,73
-17,8.7,1,0,4
-18,8.7,33,0,4
-84,8.2,53,1,24
-27,7.9,18,0,4
-251,7.9,122,1,100
-21,8.0,80,0,6
-54,7.8,81,1,29
-50,8.8,33,1,21
-72,9.2,100,1,44
-42,8.3,31,1,23
-6,8.2,6,0,9
-25,7.9,54,0,11
-5,7.9,6,0,10
-6,7.9,14,0,4
-29,7.8,25,0,19
-29,7.8,23,0,8
-8,7.7,50,0,10
-7,8.1,8,0,2
-19,8.4,71,0,1
-7,7.5,13,0,1
-15,8.4,17,0,12
-43,7.8,38,1,18
-11,7.5,22,0,9
-22,7.9,59,0,6
-22,7.3,25,0,12
-11,7.1,24,0,9
-10,7.1,10,0,14
-9,7.1,49,0,9
-8,7.0,6,0,8
-5,7.1,2,0,3
-12,7.2,20,0,10
-8,7.7,37,0,5
-8,7.2,6,0,11
-6,7.1,5,0,6
-0,6.3,0,0,1
-3,Null,1,0,3
-0,Null,7,0,0
-0,Null,2,0,1
-2,5.3,2,0,3
-0,Null,0,0,2
-0,Null,0,0,0
-31,7.8,15,1,3
-7,7.5,3,0,3
-0,Null,1,0,1
-0,Null,1,0,0
-4,Null,1,0,1
-1,Null,3,0,0
-3,Null,2,0,0
-0,Null,3,0,0
-0,Null,1,0,0
-3,Null,2,0,0
-3,Null,1,0,3
-1,Null,0,0,1
-1,Null,2,0,0
-0,Null,0,0,0
-25,8.5,7,0,3
-39,8.3,68,1,8
-46,8.1,145,1,13
-90,7.8,94,1,13
-8,7.8,4,0,4
-11,7.8,13,0,2
-36,7.3,200,1,19
-85,7.3,128,1,27
-171,7.3,189,1,33
-20,7.2,12,0,3
-26,7.2,33,0,4
-3,7.1,2,0,1
-35,7.0,40,1,6
-106,8.0,159,1,51
-3,7.0,0,0,0
-10,7.7,3,0,8
-31,7.0,31,1,13
-7,7.0,10,0,2
-8,7.1,10,0,4
-12,7.1,11,0,4
-12,7.4,10,0,4
-53,7.4,48,1,17
-5,7.0,2,0,4
-30,6.5,32,0,11
-14,7.9,23,0,6
-21,7.6,28,0,3
-19,7.6,7,0,3
-8,7.3,5,0,2
-37,7.2,47,1,26
-9,7.4,4,0,3
-9,7.3,2,0,2
-6,7.1,4,0,3
-7,7.2,0,0,4
-3,7.2,0,0,1
-189,6.9,205,1,26
-15,6.8,14,0,5
-5,6.7,3,0,4
-4,6.7,2,0,3
-384,6.5,380,1,89
-5,6.4,3,0,0
-1,6.3,0,0,1
-47,6.5,85,1,42
-20,6.4,19,0,7
-2,6.5,0,0,0
-17,6.2,1,0,5
-1,6.2,1,0,3
-0,6.3,0,0,1
-2,6.2,4,0,2
-27,6.3,32,0,10
-1,6.2,1,0,0
-1,Null,2,0,1
-1,Null,0,0,0
-0,Null,0,0,0
-1,Null,3,0,0
-0,Null,3,0,0
-3,Null,0,0,0
+Venue,like_counts,rating,photo_count,reasons_count,tips_count
+The Keg,25,8.5,7,0,3
+Konjiki Ramen,39,8.3,68,1,8
+Toronto Centre for the Arts,46,8.1,145,1,13
+Loblaws,90,7.8,94,1,13
+Satay Sate,8,7.8,4,0,4
+Saryo,11,7.8,13,0,2
+Mel Lastman Square,36,7.3,200,1,19
+Starbucks,85,7.3,128,1,27
+Cineplex Cinemas,171,7.3,189,1,33
+Aroma Espresso Bar,20,7.2,12,0,3
+Michaels,26,7.2,33,0,4
+Dairy Queen,3,7.1,2,0,1
+Empress Walk,35,7.0,40,1,6
+Sushi Moto Sake & Wine Bar,106,8.0,159,1,51
+Booster Juice,3,7.0,0,0,0
+Pizzaiolo,10,7.7,3,0,8
+Baton Rouge,31,7.0,31,1,13
+Douglas Snow Aquatic Centre,7,7.0,10,0,2
+Aura,8,7.1,10,0,4
+Wako Sushi + Bar,12,7.1,11,0,4
+MYMY Chicken,12,7.4,10,0,4
+Bake Code 烘焙密碼,53,7.4,48,1,17
+Gol,5,7.0,2,0,4
+Symposium Cafe Restaurant & Lounge,30,6.5,32,0,11
+Sukhothai,74,8.4,78,1,53
+I Love Churros,6,7.6,17,0,4
+Ontario Restaurant,7,7.5,2,0,2
+Schnitzel Queen,16,8.5,6,0,3
+Figs Breakfast & Lunch,55,8.0,37,1,25
+King's Place647-352-0786,16,7.1,11,0,5
+Berkeley Church,26,7.7,194,0,7
+The Yoga Lounge,8,7.6,1,0,2
+FAMO Sandwiches,5,7.9,3,0,3
+Smoke's Poutinerie,59,7.6,104,1,25
+Paintbox Bistro,25,7.7,34,0,9
+The Beer Store,9,7.4,9,0,1
+It's Jenny Café,4,7.3,8,0,3
+Souvlaki Express,7,7.3,8,0,6
+Moss Park Arena,5,6.8,16,0,4
+Tim Hortons,31,7.8,15,1,3
+Farmer's Market Etobicoke,7,7.5,3,0,3
+Burnhamthorpe and The West Mall,0,Null,1,0,1
+Livingston International,0,Null,1,0,0
+W.E. Kitchen,4,Null,1,0,1
+West Mall Rink,1,Null,3,0,0
+Quiznos,3,Null,2,0,0
+ARA Electrical Contractors & Consultants Inc,0,Null,3,0,0
+Sunglass Hut,0,Null,1,0,0
+Rabba,3,Null,2,0,0
+Delimark Cafe,3,Null,1,0,3
+Four Seasons Place,1,Null,0,0,1
+Broadacres Park,1,Null,2,0,0
+Bâton Rouge Steakhouse & Bar,0,Null,0,0,0
+St. Andrews Fish & Chips,14,7.9,23,0,6
+Disney Store,21,7.6,28,0,3
+Shoppers Drug Mart,19,7.6,7,0,3
+SEPHORA,8,7.3,5,0,2
+St. Louis Bar & Grill,37,7.2,47,1,26
+DAVIDsTEA,9,7.4,4,0,3
+American Eagle Outfitters,9,7.3,2,0,2
+Hot Topic,6,7.1,4,0,3
+Tommy Hilfiger,7,7.2,0,0,4
+Chipotle Mexican Grill,3,7.2,0,0,1
+Coliseum Scarborough Cinemas,189,6.9,205,1,26
+Tim Hortons,15,6.8,14,0,5
+Jimmy The Greek,5,6.7,3,0,4
+lululemon athletica,4,6.7,2,0,3
+Scarborough Town Centre,384,6.5,380,1,89
+GAP,5,6.4,3,0,0
+Subway,1,6.3,0,0,1
+Moxie's Classic Grill,47,6.5,85,1,42
+FreshCo,20,6.4,19,0,7
+Petro-Canada,2,6.5,0,0,0
+YMCA,17,6.2,1,0,5
+Subway,1,6.2,1,0,3
+SportChek,0,6.3,0,0,1
+Tim Hortons,2,6.2,4,0,2
+AllStar Wings & Ribs,27,6.3,32,0,10
+East York Farmers' Market,8,7.7,37,0,5
+Last Drop Cafe,8,7.2,6,0,11
+Lickadee Split,6,7.1,5,0,6
+Subway,0,6.3,0,0,1
+Apple cafe,3,Null,1,0,3
+Cosburn Park Lawn Bowling Club,0,Null,7,0,0
+Les Anthony Parkette,0,Null,2,0,1
+Tim Hortons,2,5.3,2,0,3
+Panzerotto Pizza,0,Null,0,0,2
+Jump 6,0,Null,0,0,0
+Subway,1,6.2,1,0,0
+Variety And Video,1,Null,2,0,1
+Dollar Tree,1,Null,0,0,0
+Timothy's World Coffee,0,Null,0,0,0
+El Nahual,1,Null,3,0,0
+LD Hardwood Flooring,0,Null,3,0,0
+Z Bar & Grille,3,Null,0,0,0
+The Broadview Hotel,55,9.0,31,1,7
+White Lily Diner,33,8.8,29,1,7
+Quad East,17,8.7,1,0,5
+Boxcar Social,91,8.7,75,1,28
+La Carnita,65,8.5,44,1,17
+Tabule,100,8.7,74,1,29
+Chez Nous,7,8.3,3,0,1
+Rooftop At Broadview Hotel,21,8.3,22,0,4
+Ruby WatchCo.,50,8.3,66,1,27
+I’ll Be Seeing You,11,8.3,7,0,1
+The Comrade,55,8.3,42,1,42
+Eastbound Brewing Company,20,8.2,63,0,6
+Royal Canadian Curling Club,21,8.1,22,0,5
+Carbon Computing,11,8.1,3,0,6
+Dark Horse Espresso Bar,48,8.7,32,1,8
+Hi-Lo,51,8.0,34,1,15
+Tertulia,7,8.0,0,0,2
+The Opera House,128,7.8,276,1,40
+Bonjour Brioche,129,7.8,170,1,89
+Merchants of Green Coffee,82,9.1,42,1,20
+St John's Bakery,8,7.5,7,0,2
+Prohibition Gastrohouse,146,7.4,214,1,78
+Mean Bao,34,7.4,18,1,11
+The Cannonball,22,7.6,29,0,25
+Sushi Bar,13,7.2,22,0,21
+Batifole,17,8.8,15,0,15
+Bach Yen,20,8.3,12,0,10
+Hailed Coffee,53,8.4,81,1,45
+Mi Mi Restaurant,26,8.2,26,0,27
+Rock Oasis,39,8.3,1,1,12
+Pho Que Ling,16,7.8,12,0,7
+Andrea's Gerrard St. Bakery,20,8.3,39,0,15
+Wong's Ice Cream + Store,14,8.5,10,0,1
+Pho House,18,8.5,27,0,12
+The Real Jerk Restaurant,60,8.5,63,1,16
+Simon's Wok,9,7.5,11,0,9
+Wynona,7,7.6,6,0,3
+Ha Noi 3 Seasons,21,8.6,16,0,11
+Farside,12,8.3,3,0,4
+Dundas & Carlaw,26,7.8,29,0,7
+Wonder Pens,16,8.0,15,0,8
+Gare De L'est,9,7.6,4,0,0
+Lolabar,2,7.5,10,0,6
+Tung Hing Bakery,5,7.8,14,0,7
+Spirit Loft Yoga,4,7.4,1,0,3
+Lady Marmalade,19,7.2,15,0,8
+Rose's Vietnamese Sandwiches,5,7.0,7,0,5
+Dwell Gym,7,7.0,1,0,0
+Norris Crescent Parkette,9,8.1,9,0,0
+Mario & Selina's No Frills,20,7.1,5,0,2
+TD Canada Trust,3,6.7,2,0,0
+Canadiana Restaurant,13,6.6,7,0,6
+7-Eleven,2,6.2,15,0,3
+Miles Road End Parkette,2,Null,7,0,0
+Hasty Market,0,Null,0,0,0
+Murphy's Masonry,0,Null,12,0,0
+Lake Crescent Park,3,Null,4,0,1
+Mobilicity,0,Null,1,0,1
+chatr Mobile,0,Null,0,0,0
+President's Choice Financial ATM,0,Null,0,0,0
+Mississauga Celebration Square,104,8.8,411,1,18
+Alioli Ristorante,31,8.0,29,1,9
+Second Cup,38,7.6,23,1,22
+Living Arts Centre,81,7.8,140,1,14
+Starbucks,26,7.3,15,0,6
+Moksha Square One,12,8.0,1,0,10
+YMCA Mississauga,28,7.0,1,0,10
+RBC Royal Bank,5,7.0,0,0,0
+Kinton Ramen,6,6.9,34,0,1
+Celebration Square Coliseum,6,6.8,12,0,0
+Union Burger,32,7.2,17,1,16
+C Cafe,6,6.3,10,0,1
+Starbucks,2,6.7,4,0,0
+GAP,5,6.3,4,0,2
+I.D.A. - Parkside Pharmacy,0,Null,0,0,0
+Lions Farmers Market (Wednesdays),2,Null,15,0,13
+Mississauga YMCA,0,Null,0,0,0
+PROPHIX Software Inc,0,Null,2,0,1
+T-swirl Crepe Mississauga,0,Null,0,0,0
+Skinatomy Laser Clinic,0,Null,0,0,0
+Failte Irish Pub,34,5.7,47,1,38
+Town & Country 24 Hours,5,5.6,2,0,8
+Old Navy,9,5.8,8,0,5
+Lall Renovations & Window Coverings,0,Null,4,0,0
+Remedy'sRx - City Centre Apothecary,0,Null,0,0,0
